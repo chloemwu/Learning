@@ -1,0 +1,5 @@
+name: example_environment
+dependencies:
+  - python = 2.7
+  - numpy
+  - matplotlib
