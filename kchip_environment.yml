@@ -1,12 +1,12 @@
 name: kchip_environment
 dependencies:
-  -python = 2.7
-  -numpy
-  -pandas
-  -scipy
-  -scikit-image
-  -scikit-learn
-  -seaborn
-  -jupyter
-  -yaml
+  - python = 2.7
+  - numpy
+  - pandas
+  - scipy
+  - scikit-image
+  - scikit-learn
+  - seaborn
+  - jupyter
+  - yaml
   
